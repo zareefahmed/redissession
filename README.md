@@ -1,8 +1,7 @@
 # Redis Session 
 
-Incorporating the installation of Redis as a specific topic on Day 1, the updated Redis training plan now includes this crucial initial step. This addition ensures that participants have the foundational setup completed before delving into more complex topics.
 
-### Redis Training Plan - Detailed Schedule with Installation
+### Redis Training Plan - Detailed Schedule
 
 | **Day** | **Duration (Hours)** | **Topic**                                  | **Content Description**                                                                                                        |
 |---------|----------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
